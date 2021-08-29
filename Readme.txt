@@ -15,4 +15,4 @@ There are 2 input text files (csv) storing the 3,314,439 NLCD and 484,476 traini
 	NLCD training: ./NLCD/metric.ard.nlcd.Mar01.18.40.txt
 	CDL training: ./CDL/metric.ard.nlcd.Mar01.18.40.txt
 
-The data are stored in due to github storage limitation
+The data are stored in https://zenodo.org/record/5333519 due to github storage limitation
